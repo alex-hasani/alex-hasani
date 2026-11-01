@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @alex-hasani
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning Ansible, Bash, and PowerShell
-- 💞️ I’m looking to collaborate on Automation
-- 📫 How to reach me? My email
+# Hi, I’m Alex Hasani 👋
 
-<!---
-alex-hasani/alex-hasani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### IT Infrastructure · Systems Engineering · Automation
+
+I focus on reliable IT infrastructure, practical automation, and tools that make everyday operations simpler.
+
+- 🖥️ **Infrastructure:** Windows and Linux systems, virtualization, networking, and IT operations.
+- ☁️ **Cloud & identity:** Azure, Microsoft 365, Entra ID, and identity and access management.
+- ⚙️ **Automation:** PowerShell, Bash, and Ansible, with an emphasis on repeatable workflows and reducing manual work.
+- 🛠️ **Projects:** Practical applications and automation tools that solve real operational problems.
+- 🤝 **Collaboration:** Interested in infrastructure automation, systems tooling, and useful open-source projects.
+
+Explore my public repositories below to see what I’m building. You can also connect with me here on GitHub.
